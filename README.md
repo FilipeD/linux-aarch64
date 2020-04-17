@@ -3,7 +3,7 @@ Simple repo to share my recently built packages for either binaries or python wh
 
 A simple testdrive of a few linux distros on my 4GB Ram Android phone in order to test x forwarding without the hassle of installing virtualization lead to an interesting discovery: stability.
 
-Having found it could be setup for usb-tethering by default, life became much more fun in a time where we must #StayAtHome.
+Having found it could be setup for usb-tethering by default, life became much more fun in a time when we all should #StayAtHome.
 Soooo... What am I really going to do with a linux distro on a phone? My thoughts ran wild...
 
 <h4> I - UserLAnd - Debian Buster</h4>
