@@ -48,12 +48,10 @@ Now, let's see: 4 x A73 + 4 x A53 = "eight core" coupled with 4GB Ram on a near 
 
 
 <h4>III - :D Let's shed some "lux" on this, shall we? <h4>
-  luxcorerender...
-  Hmmm, sources downloaded... Did you know "sdcard" gets mounted to /host-rootfs/sdcard B-> ?
-  ...
-  ...
-  ...
-  (Many, many, many, many, Many, many, many, many Many, many, many, many, Many, many, many, many hours later)
+  
+luxcorerender? Hmmm, sources downloaded... Did you know "sdcard" gets mounted to /host-rootfs/sdcard B-D ?
+
+(Many, many, many, many, Many, many, many, many Many, many, many, many, Many, many, many, many hours later)
 
 Well, it's 1h25am and I'll have to start working in 8hrs so, before I can write properly about it, I'll have
 to bid you all good night for now. The good news and the reason I finally decided on making some good use
@@ -69,5 +67,5 @@ See you all very soon. It's Friday!!! It's gonna be an interesting weekend!
 ps: I know, this md needs some love... It'll be dealt with in a near future, I promise... :)
 
 <h4>Usefull links:</h4>
-1- https://stackoverflow.com/questions/46934760/importerror-libboost-python-so-1-65-1-cannot-open-shared-object-file-no-such
-2- https://bugzilla.redhat.com/show_bug.cgi?id=1302120
+  1 https://stackoverflow.com/questions/46934760/importerror-libboost-python-so-1-65-1-cannot-open-shared-object-file-no-such
+  2 https://bugzilla.redhat.com/show_bug.cgi?id=1302120
